@@ -3,7 +3,7 @@ Senior Software engineer focused on high-load and distributed systems.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bonbonslick/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/bonbonslick/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <!-- <a href="https://www.instagram.com/bonbonslick/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a> -->
   <a href="https://github.com/bonbonslick" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   <a href="https://bitbucket.org/BonBonSlick" target="_blank"><img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" /></a>
 </p>
