@@ -1,4 +1,5 @@
-Senior Software engineer focused on high-load and distributed systems.
+<img src="https://komarev.com/ghpvc/?username=bonbonslick&color=00add8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+Senior Software engineer focused on high-load and distributed systems. 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bonbonslick/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
@@ -8,21 +9,6 @@ Senior Software engineer focused on high-load and distributed systems.
 </p>
 
 ---
-
-## 🚀 Proof-of-Work
-
-*   💻 **[SAGA microservice PHP]** ➔ **[`orchestrator_ms_api`](https://github.com/bonbonslick/orchestrator_ms_api)**
-*   📝 **[SUPER PERFORMANCE PHP/GO]** ➔ **[Slot Engine Acceleration Guide](https://github.com/bonbonslick)**
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonbonslick&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bonbonslick&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="160" />
-</p>
-
----
-
 ### 💻 Languages & Runtimes
 <img src="https://skillicons.dev/icons?i=go,php,ts,js,wasm,html" alt="Languages & Runtimes" />
 
@@ -42,3 +28,19 @@ Senior Software engineer focused on high-load and distributed systems.
 <img src="https://skillicons.dev/icons?i=phpstorm,idea,git,ai,bash,postman,npm,webpack" alt="IDEs, Tools & AI" />
 
 ---
+
+
+## 🚀 Proof-of-Work
+
+*   💻 **[SAGA microservice PHP]** ➔ **[`orchestrator_ms_api`](https://github.com/bonbonslick/orchestrator_ms_api)**
+*   📝 **[SUPER PERFORMANCE PHP/GO]** ➔ **[Slot Engine Acceleration Guide](https://github.com/bonbonslick)**
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonbonslick&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bonbonslick&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bonbonslick&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonbonslick&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" />
+
