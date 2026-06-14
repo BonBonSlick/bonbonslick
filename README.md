@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=bonbonslick&color=00add8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=bonbonslick&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
 Senior Software engineer focused on high-load and distributed systems. 
 
 <p align="left">
