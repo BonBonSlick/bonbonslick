@@ -1,5 +1,3 @@
-# 👋 Andrii Starkov
-
 Senior Software engineer focused on high-load and distributed systems.
 
 <p align="left">
